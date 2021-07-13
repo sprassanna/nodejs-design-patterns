@@ -1,0 +1,1 @@
+i can ignore negative emotions
