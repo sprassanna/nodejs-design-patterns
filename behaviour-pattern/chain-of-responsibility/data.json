@@ -1,0 +1,42 @@
+{
+    "backpack": [
+        {
+            "name": "pencil",
+            "quantity": 2
+        },
+        {
+            "name": "eraser",
+            "quantity": 2
+        }
+    ],
+    "pouch": [
+        {
+            "name": "sharps",
+            "quantity": 2
+        },
+        {
+            "name": "makeup-kit",
+            "quantity": 2
+        }
+    ],
+    "cupboard": [
+        {
+            "name": "doll",
+            "quantity": 10
+        },
+        {
+            "name": "basketball",
+            "quantity": 4
+        }
+    ],
+    "shop": [
+        {
+            "name": "ice-cream",
+            "quantity": 100
+        },
+        {
+            "name": "chocolates",
+            "quantity": 20
+        }
+    ]
+}
